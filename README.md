@@ -1,2 +1,2 @@
 # causal_inference_project
-This project compares different selection methods (FSM, CRD, Re-Randomization, GSWD)
+This project compares the Finite Selection Model against Complete Randomization, Re-Randomization, and Gram-Schmidt-Walk Design
